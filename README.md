@@ -1,4 +1,4 @@
-# Git
+# Git & CLI
 ## Git 학습
 [Git](https://git-scm.com/ "git download") 학습을 위한 연습 저장소 링크수정
 
@@ -7,3 +7,7 @@
 * git add
 * git commit
 * git branch
+
+## CLI 명령어
+* pwd - 현재 디렉토리 확인
+* cd - 디렉토리 이동
